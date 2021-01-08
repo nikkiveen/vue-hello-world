@@ -1,4 +1,4 @@
-# lineball-poc
+# vue-hello-world
 
 ## Project setup
 ```
